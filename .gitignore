@@ -221,9 +221,10 @@ events.out.tfevents*
 .vim
 
 # 추가
-.ipynb
-.array
-.jpg
+*.ipynb
+*.array
+*.jpg
+__README.md
 
 
 
