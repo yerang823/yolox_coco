@@ -220,9 +220,10 @@ events.out.tfevents*
 # vim
 .vim
 
-*.ipynb
-*.array
-*.jpg
+# 추가
+.ipynb
+.array
+.jpg
 
 
 
